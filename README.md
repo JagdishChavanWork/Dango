@@ -89,7 +89,7 @@ pip install numpy pandas scikit-learn
 
 ## 🏗️ Step 8: Create Django Project
 ```cmd
-django-admin startproject config .
+django-admin startproject myproject1
 ```
 
 Run server:
